@@ -1,0 +1,9 @@
+_test/
+data/
+layer2_seeds/
+*.tif
+*.csv.part
+__pycache__/
+.venv/
+.claude
+.DS_Store
